@@ -4,6 +4,7 @@
 **Justificación del método de priorización:** Escogimos este método por el hecho de que la manera de organizar los requerimientos es por dependencia, como su nombre lo indica, esto significando que todos dependen de todos, es decir, no puede estar ninguno sin cubrirse. Otro motivo por el cual se utilizó esta metodología, fue el hecho de que, si los requerimientos son dependientes de otros, entonces la técnica consiste en buscar aquellos que son imprescindibles para el desarrollo de los demás y priorizarlos. El orden en cómo fueron priorizados, fue la enumeración; de los más importantes, a los menos importantes.
 
 **Funcionales:**
+
 1-+Los usuarios podrán acceder al canal de YouTube y podrán ver el contenido de manera ordenada. 
 
 1- Los usuarios no podrán alterar, eliminar o agregar el contenido de la página de forma directa. 
