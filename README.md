@@ -11,7 +11,7 @@ Trigonometría y Geometría Analitica, un proyecto desarrollado para la materia 
 
 +Kevin Leandro Camelo Suaste [Kevin](https://github.com/Kevincamelo5 "Kevin")
 
-+José Ángel Colli Cauich 
++José Ángel Colli Cauich [Ángel](https://github.com/AngelColli23 "Ángel")
 
 +Emilio Campos Daguer [Emilio](https://github.com/Emcamdag "Emilio")
 
