@@ -9,7 +9,7 @@
 
 +Los usuarios podrán utilizar el material de estudio de manera que puedan acceder al tema que en cuestión están buscando.  
 
-+ Los usuarios no podrán alterar, eliminar o agregar el contenido de la página de forma directa. 
++Los usuarios no podrán alterar, eliminar o agregar el contenido de la página de forma directa. 
 
 +Los usuarios podrán publicar comentarios e interactuar con otros dentro del apartado de comentarios. 
 
@@ -22,7 +22,7 @@
 
 +El material no debe de contener teoría de tal manera que pueda llegar a aburrir al usuario, si no que sea lo más breve, simple y corta posible, evitando que ocupe la mayor parte del contenido. 
 
-+ La presentación de los videos debe ser tal, que la mayoría de usuarios sientan comodidad al verla, evitando utilizar colores de tonalidad muy fuerte y efectos que puedan aturdir a los usuarios.
++La presentación de los videos debe ser tal, que la mayoría de usuarios sientan comodidad al verla, evitando utilizar colores de tonalidad muy fuerte y efectos que puedan aturdir a los usuarios.
 
 +El audio de los videos debe de ser limpio, de tal forma que pueda entenderse y escucharse claramente, evitando los altibajos en el volumen, o algún ruido que pueda distraer al usuario. 
 
