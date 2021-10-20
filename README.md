@@ -28,7 +28,7 @@ Trigonometría y Geometría Analitica, un proyecto desarrollado para la materia 
 
 +[Bitacoras](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Bitacoras.md "Bitacoras")
 
-##Entregas📩
+## Entregas📩
 
 +[Entrega1](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/tree/main/Entrega%201 "Entrega1")
 
