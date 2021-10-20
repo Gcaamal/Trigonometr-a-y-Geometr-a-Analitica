@@ -15,7 +15,7 @@
 
 **Requerimientos no funcionales:**
 
-+ Los videos deben de ser hechos de manera clara y explicando paso por paso los procedimientos. 
++Los videos deben de ser hechos de manera clara y explicando paso por paso los procedimientos. 
 
 +Los videos deben de contar con una duración máxima de 7 minutos, para que el usuario pueda centrar su atención. 
 +El material debe estar hecho de tal forma que se centre en la resolución de ejercicios. 
