@@ -20,6 +20,8 @@ Trigonometría y Geometría Analitica, un proyecto desarrollado para la materia 
 ## Documentación 💾
 +[Descripción general del proyecto](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Descripci%C3%B3n_general_del_proyecto.md "Descripción general del proyecto")
 
++[Metodología](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Metodolog%C3%ADa/Metodolog%C3%ADa_del_proyecto.md "Metodología")<[Tabla](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Metodolog%C3%ADa/Metodolog%C3%ADa.png "Tabla")>
+
 +[Requerimientos](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Requerimientos.md "Requerimientos") <[Metodología](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/Metodolog%C3%ADa_requerimientos.md "Metodología")>
 
 +[Casos de uso](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/casos_de_uso/Casos_de_uso.md "Casos de uso")<[Diagrama](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/blob/main/Entrega%201/casos_de_uso/Casosdeuso.png "Diagrama")> 
