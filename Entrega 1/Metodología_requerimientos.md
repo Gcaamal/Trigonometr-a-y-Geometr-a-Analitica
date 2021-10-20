@@ -15,7 +15,7 @@
 
 5- +Los usuarios podrán publicar comentarios e interactuar con otros dentro del apartado de comentarios.
 
-**No funcionales: **
+**No funcionales:**
 
 2- Los videos deben de ser hechos de manera clara y explicando paso por paso los procedimientos 
 
