@@ -30,7 +30,7 @@ Trigonometría y Geometría Analitica, un proyecto desarrollado para la materia 
 
 ## Entregas📩
 
-+[Entrega1](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/tree/main/Entrega%201 "Entrega1")
++[Entrega1](https://github.com/JosueCanul/Trigonometr-a-y-Geometr-a-Analitica/tree/main/Entrega%201 "Entrega1")<[video](https://youtu.be/wJIIxuoy5vM "video")>
 
 
 ## Canal de Youtube 🔔
