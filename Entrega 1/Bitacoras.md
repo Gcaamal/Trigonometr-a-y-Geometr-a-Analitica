@@ -5,7 +5,7 @@
 
 **Jueves 30 de agosto**
 
-El equipo tuvo una reunión con el profesor Edgar, platicando sobre la problemática de la depresión y que tan viable sería optar por una página web como método de ayuda con esas personas, pero sobre todo lo peligroso que era llevar a cabo el proyecto, puesto que tenía muchos puntos que ponían en riesgo a los usuarios.
+* El equipo tuvo una reunión con el profesor Edgar, platicando sobre la problemática de la depresión y que tan viable sería optar por una página web como método de ayuda con esas personas, pero sobre todo lo peligroso que era llevar a cabo el proyecto, puesto que tenía muchos puntos que ponían en riesgo a los usuarios.
 
 * **Ese mismo día el compañero Gerardo se anexó al equipo**
 
@@ -13,7 +13,9 @@ El equipo tuvo una reunión con el profesor Edgar, platicando sobre la problemá
 
 * Se replanteó la problemática con respecto a nuestros alcances, optando así por la problemática que existe con los alumnos de primer semestre de Ing. en software en la materia de Geometría analítica, siendo esta materia, una gran dificultad. Se lanzaron ideas sobre cómo generar un producto para llevar a cabo el proyecto.
 
-**sábado 2 de octubre Jesús y Omar se anexaron al equipo completando así las vacantes**
+**sábado 2 de octubre** 
+
+* Jesús y Omar se anexaron al equipo completando así las vacantes
 
 **Jueves 7 octubre.**
 
