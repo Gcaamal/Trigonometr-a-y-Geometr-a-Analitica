@@ -3,11 +3,13 @@ El objetivo de este proyecto, es brindar un apoyo para la materia de Geometría 
 ## Alcances y limitaciones
 
 **Alcances:**
+
 1-Este tipo de proyecto, facilitará el entendimiento de las materias de Geometría Analítica para los compañeros de la Facultad de Matemáticas y la Unidad Multidisciplinaria Tizimín que lleven la materia de Geometría Analítica.
 
 2-Los vídeos serán accesibles desde la aplicación de reproducción de vídeos YouTube, la cual es gratuita y de fácil acceso, desde diferentes dispositivos que cuenten con los requerimientos mínimos de ejecución.
 
 **Limitaciones:**
+
 1- La información tratada, presentará una ligera complejidad en su entendimiento si es aprendida por medio de otro sistema educativo ajeno a la Facultad de Matemáticas y la Unidad Multidisciplinaria de Tizimín. Por lo tanto, a alumnos de otras Universidades les será de poca utilidad.
 
 2- Este tipo de proyecto no les será de gran ayuda a licenciaturas que tengan escasa relación en el área de las matemáticas.
